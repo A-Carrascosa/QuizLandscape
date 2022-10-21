@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="next_button">next</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="alexelcapo">¿Alexelcapo es el fundador del famoso grupo Ass Eaters?</string>
+    <string name="leakers">¿Son los leakers un bien para los videojuegos?</string>
+    <string name="caliebre">¿Caliebre tiene unos clips OOC maravillosos?</string>
+    <string name="pokemon">¿Nintendo ama la franquicia Pokémon por el cariño que le tiene?</string>
+    <string name="brandon">¿Brandon me esta quitando años de vida?</string>
+    <string name="fantasma">¿Es fantasma maravilloso?</string>
+    <string name="correct_toast">Respuesta correcta</string>
+    <string name="incorrect_toast">Respuesta incorrecta</string>
+    <string name="back_button">back</string>
+    <string name="questions">Questions</string>
+</resources>
